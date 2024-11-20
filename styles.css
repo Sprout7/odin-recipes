@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#heading {
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+#list {
+    background-color: lightcoral;
+    color: darkcyan;
+    text-align: center;
+}
+
+.sinigang, .beefSteak, .chickenPizza {
+    font-size: 25px;
+}
