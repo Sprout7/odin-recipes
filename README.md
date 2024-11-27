@@ -8,4 +8,4 @@ Adding + Commits often
 
 Practicing on css: color, background color, typography properties
 
-Playing around padding and margin + 
+Playing around padding and margin
