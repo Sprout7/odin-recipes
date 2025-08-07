@@ -3,3 +3,51 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.nav-link {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+h1,
+h2,
+h3 {
+  background-color: bisque;
+  color: green;
+  margin-bottom: 20px;
+}
+
+h1 {
+  padding: 20px;
+}
+
+.img-center {
+  display: block;
+  width: 300px;
+  height: auto;
+  margin: 0 auto 20px auto;
+}
+
+p {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+ul,
+ol {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
